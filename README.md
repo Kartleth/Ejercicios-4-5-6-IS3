@@ -5,3 +5,5 @@ Ejercicio 4: Objetivo: Experimentar con conflictos al trabajar en el mismo archi
 Ejercicio 5: Objetivo: Utilizar características avanzadas de Git, como tags y revertir cambios.
 
 Ejercicio 6: Objetivo: Practicar una estrategia de ramificación más compleja y manejar conflictos.
+
+Karla Lerma estuvo editando aquí!:D 
