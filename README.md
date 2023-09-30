@@ -7,3 +7,4 @@ Ejercicio 5: Objetivo: Utilizar características avanzadas de Git, como tags y r
 Ejercicio 6: Objetivo: Practicar una estrategia de ramificación más compleja y manejar conflictos.
 
 Karla Lerma estuvo editando aquí!:D 
+ilse estuvo aqui.
